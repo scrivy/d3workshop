@@ -1,0 +1,270 @@
+{
+    "major": "all",
+    "value": 100,
+    "children": [
+        {
+            "major": "Architecture",
+            "label": "ARCH",
+            "value": 2,
+            "color": "#10778a",
+            "gender": {
+                "male": 48,
+                "female": 52,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 2,
+                "fair": 10,
+                "good": 34,
+                "excellent": 54
+            },
+            "occupations": [
+                "Architect",
+                "Education, Training, and Library",
+                "Construction"
+            ]
+        },
+        {
+            "major": "Art History",
+            "label": "Art History",
+            "value": 14,
+            "color": "#e2509a",
+            "gender": {
+                "male": 15,
+                "female": 85,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 0,
+                "fair": 5,
+                "good": 36,
+                "excellent": 59
+            },
+            "occupations": [
+                "Education, Training, and Library",
+                "Office and Administrative Support",
+                "Museum or Gallery Worker, including Curator"
+            ]
+        },
+        {
+            "major": "Arts Education",
+            "label": "ED",
+            "value": 1,
+            "color": "#fee45f",
+            "gender": {
+                "male": 28,
+                "female": 72,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 0,
+                "fair": 4,
+                "good": 30,
+                "excellent": 67
+            },
+            "occupations": [
+                "K-12 Arts Educator",
+                "Education, Training, and Library",
+                "Musician"
+            ]
+        },
+        {
+            "major": "Creative/Other Writing",
+            "label": "CW",
+            "value": 0.5,
+            "color": "#fd8f38",
+            "gender": {
+                "male": 26,
+                "female": 74,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 0,
+                "fair": 0,
+                "good": 41,
+                "excellent": 59
+            },
+            "occupations": [
+                "Writer, Author, Editor",
+                "Education, Training, and Library",
+                "Communications"
+            ]
+        },
+        {
+            "major": "Dance",
+            "label": "Dance",
+            "value": 5,
+            "color": "#feb3df",
+            "gender": {
+                "male": 11,
+                "female": 89,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 2,
+                "fair": 6,
+                "good": 35,
+                "excellent": 58
+            },
+            "occupations": [
+                "Dancer or Choreographer",
+                "Education, Training, and Library",
+                "Office and Administrative Support"
+            ]
+        },
+        {
+            "major": "Design",
+            "label": "Design",
+            "value": 5,
+            "color": "#7c7e7f",
+            "gender": {
+                "male": 35,
+                "female": 65,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 1,
+                "fair": 9,
+                "good": 40,
+                "excellent": 50
+            },
+            "occupations": [
+                "Graphic Designer, Illustrator, or Art Director",
+                "Communications",
+                "Education, Training, and Library"
+            ]
+        },
+        {
+            "major": "Fine/Studio Arts",
+            "label": "Fine/Studio Arts",
+            "value": 28,
+            "color": "#76cdf2",
+            "gender": {
+                "male": 34,
+                "female": 66,
+                "transgender": "0.1"
+            },
+            "satisfaction": {
+                "poor": 1,
+                "fair": 7,
+                "good": 41,
+                "excellent": 50
+            },
+            "occupations": [
+                "Education, Training, and Library",
+                "Fine Artist",
+                "Graphic Designer, Illustrator, or Art Director"
+            ]
+        },
+        {
+            "major": "Media Arts",
+            "label": "Media Arts",
+            "value": 8,
+            "color": "#09567f",
+            "gender": {
+                "male": 46,
+                "female": 54,
+                "transgender": "0.3"
+            },
+            "satisfaction": {
+                "poor": 2,
+                "fair": 8,
+                "good": 40,
+                "excellent": 50
+            },
+            "occupations": [
+                "Film, TV, Video Artist",
+                "Communications",
+                "Office and Administrative Support"
+            ]
+        },
+        {
+            "major": "Music History / Composition / Theory",
+            "label": "Music",
+            "value": 4,
+            "color": "#b3965e",
+            "gender": {
+                "male": 57,
+                "female": 43,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 2,
+                "fair": 6,
+                "good": 36,
+                "excellent": 56
+            },
+            "occupations": [
+                "Musician",
+                "Education, Training, and Library",
+                "Private Teacher of the Arts"
+            ]
+        },
+        {
+            "major": "Music Performance",
+            "label": "Music Performance",
+            "value": 13,
+            "color": "#19a3ac",
+            "gender": {
+                "male": 48,
+                "female": 52,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 1,
+                "fair": 5,
+                "good": 35,
+                "excellent": 58
+            },
+            "occupations": [
+                "Musician",
+                "Education, Training, and Library",
+                "Private Teacher of the Arts"
+            ]
+        },
+        {
+            "major": "Theatre",
+            "label": "Theater",
+            "value": 15,
+            "color": "#fed130",
+            "gender": {
+                "male": 41,
+                "female": 59,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 1,
+                "fair": 5,
+                "good": 37,
+                "excellent": 58
+            },
+            "occupations": [
+                "Education, Training, and Library",
+                "Actor",
+                "Office and Administrative Support"
+            ]
+        },
+        {
+            "major": "Other Arts Majors",
+            "label": "Other",
+            "value": 0.8,
+            "color": "#fc6e2d",
+            "gender": {
+                "male": 23,
+                "female": 77,
+                "transgender": "0.0"
+            },
+            "satisfaction": {
+                "poor": 3,
+                "fair": 8,
+                "good": 29,
+                "excellent": 61
+            },
+            "occupations": [
+                "Education, Training, and Library",
+                "Dancer or Choreographer",
+                "Higher Education Arts Educator"
+            ]
+        }
+    ]
+}

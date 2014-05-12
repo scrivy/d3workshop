@@ -1,0 +1,2605 @@
+{
+    "type": "FeatureCollection",
+    "locations": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Albany, NY",
+                "coordinates": [
+                    -73.754968,
+                    42.6511674
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Albany-Schenectady, NY",
+                "csa": "CSA104",
+                "respondents": 157,
+                "selfEmployed": 48.0769230769231,
+                "professionalArtist": 55.4140127388535,
+                "location": {
+                    "veryGood": 25.5813953488372,
+                    "good": 31.3953488372093,
+                    "fair": 30.2325581395349,
+                    "poor": 9.3023255813954,
+                    "veryPoor": 3.4883720930233
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Albuquerque, NM",
+                "coordinates": [
+                    -106.6509851,
+                    35.0841034
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Albuquerque-Santa Fe-Las Vegas, NM",
+                "csa": "CSA106",
+                "respondents": 217,
+                "selfEmployed": 51.3888888888889,
+                "professionalArtist": 51.1520737327189,
+                "location": {
+                    "veryGood": 51.3513513513514,
+                    "good": 29.7297297297297,
+                    "fair": 16.2162162162162,
+                    "poor": 2.7027027027027,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Asheville, NC",
+                "coordinates": [
+                    -82.5540161,
+                    35.6009498
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Asheville-Brevard, NC",
+                "csa": "CSA120",
+                "respondents": 90,
+                "selfEmployed": 48.8888888888889,
+                "professionalArtist": 56.1797752808989,
+                "location": {
+                    "veryGood": 54.9019607843137,
+                    "good": 29.4117647058824,
+                    "fair": 13.7254901960784,
+                    "poor": 1.9607843137255,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Atlanta, GA",
+                "coordinates": [
+                    -84.3901849,
+                    33.7490987
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Atlanta--Athens-Clarke County--Sandy Springs, GA",
+                "csa": "CSA122",
+                "respondents": 774,
+                "selfEmployed": 39.6103896103896,
+                "professionalArtist": 47.5388601036269,
+                "location": {
+                    "veryGood": 34.4262295081967,
+                    "good": 39.0710382513661,
+                    "fair": 20.4918032786885,
+                    "poor": 4.3715846994536,
+                    "veryPoor": 1.6393442622951
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Bloomington, IN",
+                "coordinates": [
+                    -86.5342881,
+                    39.1670396
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Bloomington-Bedford, IN",
+                "csa": "CSA144",
+                "respondents": 171,
+                "selfEmployed": 41.1764705882353,
+                "professionalArtist": 46.7836257309941,
+                "location": {
+                    "veryGood": 32.051282051282,
+                    "good": 29.4871794871795,
+                    "fair": 34.6153846153846,
+                    "poor": 3.8461538461538,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Bloomsburg, PA",
+                "coordinates": [
+                    -76.453816,
+                    41.0041213
+                ],
+                "accuracy": "administrative"
+            },
+            "properties": {
+                "name": "Bloomsburg-Berwick-Sunbury, PA",
+                "csa": "CSA146",
+                "respondents": 49,
+                "selfEmployed": 27.0833333333333,
+                "professionalArtist": 44.8979591836735,
+                "location": {
+                    "veryGood": 36.3636363636364,
+                    "good": 18.1818181818182,
+                    "fair": 31.8181818181818,
+                    "poor": 13.6363636363636,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Boise City, ID",
+                "coordinates": [
+                    -116.24326280198,
+                    43.598792
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Boise City-Mountain Home-Ontario, ID-OR",
+                "csa": "CSA147",
+                "respondents": 45,
+                "selfEmployed": 42.2222222222222,
+                "professionalArtist": 55.5555555555556,
+                "location": {
+                    "veryGood": 24,
+                    "good": 40,
+                    "fair": 24,
+                    "poor": 12,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Boston, MA",
+                "coordinates": [
+                    -71.0595678,
+                    42.3604823
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Boston-Worcester-Providence, MA-RI-NH-CT",
+                "csa": "CSA148",
+                "respondents": 2016,
+                "selfEmployed": 44.6988551518168,
+                "professionalArtist": 55.5886736214605,
+                "location": {
+                    "veryGood": 41.8604651162791,
+                    "good": 33.1842576028623,
+                    "fair": 18.783542039356,
+                    "poor": 4.830053667263,
+                    "veryPoor": 1.3416815742397
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Buffalo, NY",
+                "coordinates": [
+                    -78.8783689,
+                    42.8864468
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Buffalo-Cheektowaga, NY",
+                "csa": "CSA160",
+                "respondents": 62,
+                "selfEmployed": 34.4262295081967,
+                "professionalArtist": 64.5161290322581,
+                "location": {
+                    "veryGood": 25,
+                    "good": 47.5,
+                    "fair": 12.5,
+                    "poor": 12.5,
+                    "veryPoor": 2.5
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Naples, FL",
+                "coordinates": [
+                    -81.7948103,
+                    26.1420358
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Cape Coral-Fort Myers-Naples, FL",
+                "csa": "CSA162",
+                "respondents": 61,
+                "selfEmployed": 60.655737704918,
+                "professionalArtist": 62.2950819672131,
+                "location": {
+                    "veryGood": 26.3157894736842,
+                    "good": 28.9473684210526,
+                    "fair": 36.8421052631579,
+                    "poor": 2.6315789473684,
+                    "veryPoor": 5.2631578947368
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Cedar Rapids, IA",
+                "coordinates": [
+                    -91.6704053,
+                    41.9758872
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Cedar Rapids-Iowa City, IA",
+                "csa": "CSA168",
+                "respondents": 58,
+                "selfEmployed": 32.7586206896552,
+                "professionalArtist": 53.448275862069,
+                "location": {
+                    "veryGood": 16.1290322580645,
+                    "good": 48.3870967741936,
+                    "fair": 22.5806451612903,
+                    "poor": 12.9032258064516,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Charleston, WV",
+                "coordinates": [
+                    -81.6326301,
+                    38.3498221
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Charleston-Huntington-Ashland, WV-OH-KY",
+                "csa": "CSA170",
+                "respondents": 39,
+                "selfEmployed": 39.4736842105263,
+                "professionalArtist": 58.974358974359,
+                "location": {
+                    "veryGood": 13.0434782608696,
+                    "good": 26.0869565217391,
+                    "fair": 52.1739130434783,
+                    "poor": 8.695652173913,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Charlotte, NC",
+                "coordinates": [
+                    -80.8431268,
+                    35.2270869
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Charlotte-Concord, NC-SC",
+                "csa": "CSA172",
+                "respondents": 295,
+                "selfEmployed": 39.6610169491525,
+                "professionalArtist": 48.8135593220339,
+                "location": {
+                    "veryGood": 24.6478873239437,
+                    "good": 37.3239436619718,
+                    "fair": 29.5774647887324,
+                    "poor": 6.3380281690141,
+                    "veryPoor": 2.112676056338
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Chicago, IL",
+                "coordinates": [
+                    -87.6243706,
+                    41.8756208
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Chicago-Naperville, IL-IN-WI",
+                "csa": "CSA176",
+                "respondents": 3145,
+                "selfEmployed": 44.3203573707722,
+                "professionalArtist": 50.8609693877551,
+                "location": {
+                    "veryGood": 50.2186133666458,
+                    "good": 33.4790755777639,
+                    "fair": 12.4297314178638,
+                    "poor": 2.9356652092442,
+                    "veryPoor": 0.9369144284822
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Cincinnati, OH",
+                "coordinates": [
+                    -84.5124602,
+                    39.1014537
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Cincinnati-Wilmington-Maysville, OH-KY-IN",
+                "csa": "CSA178",
+                "respondents": 306,
+                "selfEmployed": 41.5841584158416,
+                "professionalArtist": 51.6447368421053,
+                "location": {
+                    "veryGood": 26.4150943396226,
+                    "good": 38.3647798742138,
+                    "fair": 26.4150943396226,
+                    "poor": 6.9182389937107,
+                    "veryPoor": 1.8867924528302
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Cleveland, OH",
+                "coordinates": [
+                    -81.6778691,
+                    41.4871888
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Cleveland-Akron-Canton, OH",
+                "csa": "CSA184",
+                "respondents": 769,
+                "selfEmployed": 43.9632545931759,
+                "professionalArtist": 50.7170795306389,
+                "location": {
+                    "veryGood": 22.9381443298969,
+                    "good": 38.1443298969072,
+                    "fair": 28.8659793814433,
+                    "poor": 9.020618556701,
+                    "veryPoor": 1.0309278350516
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Columbia, SC",
+                "coordinates": [
+                    -81.0348144,
+                    34.0007104
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Columbia-Orangeburg-Newberry, SC",
+                "csa": "CSA192",
+                "respondents": 57,
+                "selfEmployed": 43.859649122807,
+                "professionalArtist": 35.7142857142857,
+                "location": {
+                    "veryGood": 19.047619047619,
+                    "good": 38.0952380952381,
+                    "fair": 28.5714285714286,
+                    "poor": 4.7619047619048,
+                    "veryPoor": 9.5238095238095
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Columbus, OH",
+                "coordinates": [
+                    -83.0007065,
+                    39.9622601
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Columbus-Marion-Zanesville, OH",
+                "csa": "CSA198",
+                "respondents": 776,
+                "selfEmployed": 39.2487046632124,
+                "professionalArtist": 52.1345407503234,
+                "location": {
+                    "veryGood": 30.1234567901235,
+                    "good": 42.2222222222222,
+                    "fair": 21.2345679012346,
+                    "poor": 5.1851851851852,
+                    "veryPoor": 1.2345679012346
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Dallas, TX",
+                "coordinates": [
+                    -96.8000082,
+                    32.7801052
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Dallas-Fort Worth, TX-OK",
+                "csa": "CSA206",
+                "respondents": 737,
+                "selfEmployed": 42.0408163265306,
+                "professionalArtist": 51.9021739130435,
+                "location": {
+                    "veryGood": 43.455497382199,
+                    "good": 38.2198952879581,
+                    "fair": 13.3507853403141,
+                    "poor": 3.9267015706806,
+                    "veryPoor": 1.0471204188482
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Dayton, OH",
+                "coordinates": [
+                    -84.1916069,
+                    39.7589478
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Dayton-Springfield-Sidney, OH",
+                "csa": "CSA212",
+                "respondents": 95,
+                "selfEmployed": 42.5531914893617,
+                "professionalArtist": 49.4736842105263,
+                "location": {
+                    "veryGood": 27.6595744680851,
+                    "good": 29.7872340425532,
+                    "fair": 23.4042553191489,
+                    "poor": 14.8936170212766,
+                    "veryPoor": 4.2553191489362
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Denver, CO",
+                "coordinates": [
+                    -104.9847034,
+                    39.7391536
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Denver-Aurora, CO",
+                "csa": "CSA216",
+                "respondents": 854,
+                "selfEmployed": 47.3004694835681,
+                "professionalArtist": 47.010550996483,
+                "location": {
+                    "veryGood": 30.4239401496259,
+                    "good": 36.1596009975062,
+                    "fair": 26.9326683291771,
+                    "poor": 5.2369077306733,
+                    "veryPoor": 1.2468827930175
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Des Moines, IA",
+                "coordinates": [
+                    -93.6037149,
+                    41.5910641
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Des Moines-Ames-West Des Moines, IA",
+                "csa": "CSA218",
+                "respondents": 57,
+                "selfEmployed": 47.3684210526316,
+                "professionalArtist": 63.1578947368421,
+                "location": {
+                    "veryGood": 16.6666666666667,
+                    "good": 36.1111111111111,
+                    "fair": 30.5555555555556,
+                    "poor": 13.8888888888889,
+                    "veryPoor": 2.7777777777778
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Detroit, MI",
+                "coordinates": [
+                    -83.0567375,
+                    42.3486635
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Detroit-Warren-Ann Arbor, MI",
+                "csa": "CSA220",
+                "respondents": 621,
+                "selfEmployed": 44.8387096774194,
+                "professionalArtist": 52.7597402597403,
+                "location": {
+                    "veryGood": 27.7439024390244,
+                    "good": 30.1829268292683,
+                    "fair": 30.7926829268293,
+                    "poor": 7.9268292682927,
+                    "veryPoor": 3.3536585365854
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Edwards, CO",
+                "coordinates": [
+                    -100.3457636,
+                    29.9116617
+                ],
+                "accuracy": "county"
+            },
+            "properties": {
+                "name": "Edwards-Glenwood Springs, CO",
+                "csa": "CSA233",
+                "respondents": 41,
+                "selfEmployed": 51.219512195122,
+                "professionalArtist": 47.5,
+                "location": {
+                    "veryGood": 20,
+                    "good": 45,
+                    "fair": 15,
+                    "poor": 10,
+                    "veryPoor": 10
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Fargo, ND",
+                "coordinates": [
+                    -96.7897661,
+                    46.8770537
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Fargo-Wahpeton, ND-MN",
+                "csa": "CSA244",
+                "respondents": 45,
+                "selfEmployed": 43.1818181818182,
+                "professionalArtist": 46.6666666666667,
+                "location": {
+                    "veryGood": 19.047619047619,
+                    "good": 38.0952380952381,
+                    "fair": 28.5714285714286,
+                    "poor": 9.5238095238095,
+                    "veryPoor": 4.7619047619048
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Fort Wayne, IN",
+                "coordinates": [
+                    -85.1386015,
+                    41.0799898
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Fort Wayne-Huntington-Auburn, IN",
+                "csa": "CSA258",
+                "respondents": 43,
+                "selfEmployed": 45.2380952380952,
+                "professionalArtist": 60.4651162790698,
+                "location": {
+                    "veryGood": 15.3846153846154,
+                    "good": 26.9230769230769,
+                    "fair": 34.6153846153846,
+                    "poor": 23.0769230769231,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Gainesville, FL",
+                "coordinates": [
+                    -82.3247976,
+                    29.651907
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Gainesville-Lake City, FL",
+                "csa": "CSA264",
+                "respondents": 49,
+                "selfEmployed": 42.8571428571429,
+                "professionalArtist": 50,
+                "location": {
+                    "veryGood": 24,
+                    "good": 28,
+                    "fair": 36,
+                    "poor": 4,
+                    "veryPoor": 8
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Grand Rapids, MI",
+                "coordinates": [
+                    -85.6680863,
+                    42.9633599
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Grand Rapids-Wyoming-Muskegon, MI",
+                "csa": "CSA266",
+                "respondents": 314,
+                "selfEmployed": 48.5623003194888,
+                "professionalArtist": 58.2802547770701,
+                "location": {
+                    "veryGood": 28.4153005464481,
+                    "good": 35.5191256830601,
+                    "fair": 27.8688524590164,
+                    "poor": 6.0109289617486,
+                    "veryPoor": 2.1857923497268
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Greensboro, NC",
+                "coordinates": [
+                    -79.7919754,
+                    36.0726355
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Greensboro--Winston-Salem--High Point, NC",
+                "csa": "CSA268",
+                "respondents": 125,
+                "selfEmployed": 37.9032258064516,
+                "professionalArtist": 49.6,
+                "location": {
+                    "veryGood": 30.6451612903226,
+                    "good": 29.0322580645161,
+                    "fair": 29.0322580645161,
+                    "poor": 11.2903225806452,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Greenville, SC",
+                "coordinates": [
+                    -82.3985105,
+                    34.8512316
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Greenville-Spartanburg-Anderson, SC",
+                "csa": "CSA273",
+                "respondents": 97,
+                "selfEmployed": 27.8350515463918,
+                "professionalArtist": 45.360824742268,
+                "location": {
+                    "veryGood": 25,
+                    "good": 40.9090909090909,
+                    "fair": 27.2727272727273,
+                    "poor": 4.5454545454546,
+                    "veryPoor": 2.2727272727273
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Harrisburg, PA",
+                "coordinates": [
+                    -76.8861122,
+                    40.2663107
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Harrisburg-York-Lebanon, PA",
+                "csa": "CSA276",
+                "respondents": 146,
+                "selfEmployed": 36.551724137931,
+                "professionalArtist": 43.8356164383562,
+                "location": {
+                    "veryGood": 10.9375,
+                    "good": 37.5,
+                    "fair": 39.0625,
+                    "poor": 7.8125,
+                    "veryPoor": 4.6875
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Harrisonburg, VA",
+                "coordinates": [
+                    -78.8719367,
+                    38.4440835
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Harrisonburg-Staunton-Waynesboro, VA",
+                "csa": "CSA277",
+                "respondents": 122,
+                "selfEmployed": 42.6229508196721,
+                "professionalArtist": 55.7377049180328,
+                "location": {
+                    "veryGood": 17.6470588235294,
+                    "good": 38.2352941176471,
+                    "fair": 26.4705882352941,
+                    "poor": 13.2352941176471,
+                    "veryPoor": 4.4117647058824
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Hartford, CT",
+                "coordinates": [
+                    -72.6905850074112,
+                    41.765599
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Hartford-West Hartford, CT",
+                "csa": "CSA278",
+                "respondents": 297,
+                "selfEmployed": 50,
+                "professionalArtist": 59.5959595959596,
+                "location": {
+                    "veryGood": 26.5536723163842,
+                    "good": 38.4180790960452,
+                    "fair": 27.683615819209,
+                    "poor": 6.2146892655367,
+                    "veryPoor": 1.1299435028249
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Houston, TX",
+                "coordinates": [
+                    -95.5266759583333,
+                    29.974286
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Houston-The Woodlands, TX",
+                "csa": "CSA288",
+                "respondents": 711,
+                "selfEmployed": 38.6459802538787,
+                "professionalArtist": 42.7566807313643,
+                "location": {
+                    "veryGood": 49.671052631579,
+                    "good": 28.2894736842105,
+                    "fair": 17.1052631578947,
+                    "poor": 3.6184210526316,
+                    "veryPoor": 1.3157894736842
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Idaho Falls, ID",
+                "coordinates": [
+                    -112.044349,
+                    43.4930789
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Idaho Falls-Rexburg-Blackfoot, ID",
+                "csa": "CSA292",
+                "respondents": 8,
+                "selfEmployed": 37.5,
+                "professionalArtist": 50,
+                "location": {
+                    "veryGood": 25,
+                    "good": 50,
+                    "fair": 0,
+                    "poor": 25,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Indianapolis, IN",
+                "coordinates": [
+                    -86.1580447,
+                    39.7683795
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Indianapolis-Carmel-Muncie, IN",
+                "csa": "CSA294",
+                "respondents": 554,
+                "selfEmployed": 43.0127041742287,
+                "professionalArtist": 51.7179023508137,
+                "location": {
+                    "veryGood": 25.4355400696864,
+                    "good": 41.8118466898955,
+                    "fair": 26.4808362369338,
+                    "poor": 3.8327526132404,
+                    "veryPoor": 2.4390243902439
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Ithaca, NY",
+                "coordinates": [
+                    -76.4968019,
+                    42.4396039
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Ithaca-Cortland, NY",
+                "csa": "CSA296",
+                "respondents": 56,
+                "selfEmployed": 42.8571428571429,
+                "professionalArtist": 66.0714285714286,
+                "location": {
+                    "veryGood": 41.6666666666667,
+                    "good": 19.4444444444444,
+                    "fair": 22.2222222222222,
+                    "poor": 8.3333333333333,
+                    "veryPoor": 8.3333333333333
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Jacksonville, FL",
+                "coordinates": [
+                    -81.655651,
+                    30.3321838
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Jacksonville-St. Marys-Palatka, FL-GA",
+                "csa": "CSA300",
+                "respondents": 181,
+                "selfEmployed": 35.3591160220994,
+                "professionalArtist": 37.0165745856354,
+                "location": {
+                    "veryGood": 14.9253731343284,
+                    "good": 26.865671641791,
+                    "fair": 41.7910447761194,
+                    "poor": 16.4179104477612,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Kalamazoo, MI",
+                "coordinates": [
+                    -85.5872286,
+                    42.291707
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Kalamazoo-Battle Creek-Portage, MI",
+                "csa": "CSA310",
+                "respondents": 150,
+                "selfEmployed": 45.6375838926174,
+                "professionalArtist": 46.6666666666667,
+                "location": {
+                    "veryGood": 21.4285714285714,
+                    "good": 42.8571428571429,
+                    "fair": 30,
+                    "poor": 4.2857142857143,
+                    "veryPoor": 1.4285714285714
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Kansas City, MO",
+                "coordinates": [
+                    -94.5630298,
+                    39.0844687
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Kansas City-Overland Park-Kansas City, MO-KS",
+                "csa": "CSA312",
+                "respondents": 855,
+                "selfEmployed": 43.3607520564042,
+                "professionalArtist": 54.5134818288394,
+                "location": {
+                    "veryGood": 35.85313174946,
+                    "good": 41.4686825053996,
+                    "fair": 17.2786177105832,
+                    "poor": 4.5356371490281,
+                    "veryPoor": 0.8639308855292
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Knoxville, TN",
+                "coordinates": [
+                    -83.9210261,
+                    35.9603948
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Knoxville-Morristown-Sevierville, TN",
+                "csa": "CSA314",
+                "respondents": 51,
+                "selfEmployed": 34,
+                "professionalArtist": 47.0588235294118,
+                "location": {
+                    "veryGood": 25,
+                    "good": 33.3333333333333,
+                    "fair": 20.8333333333333,
+                    "poor": 16.6666666666667,
+                    "veryPoor": 4.1666666666667
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Lafayette, IN",
+                "coordinates": [
+                    -86.8752869,
+                    40.4167022
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Lafayette-West Lafayette-Frankfort, IN",
+                "csa": "CSA320",
+                "respondents": 82,
+                "selfEmployed": 36.5853658536585,
+                "professionalArtist": 45.679012345679,
+                "location": {
+                    "veryGood": 23.6842105263158,
+                    "good": 36.8421052631579,
+                    "fair": 26.3157894736842,
+                    "poor": 10.5263157894737,
+                    "veryPoor": 2.6315789473684
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Lansing, MI",
+                "coordinates": [
+                    -84.5553805,
+                    42.7337712
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Lansing-East Lansing-Owosso, MI",
+                "csa": "CSA330",
+                "respondents": 68,
+                "selfEmployed": 40.2985074626866,
+                "professionalArtist": 54.4117647058824,
+                "location": {
+                    "veryGood": 11.1111111111111,
+                    "good": 30.5555555555556,
+                    "fair": 36.1111111111111,
+                    "poor": 16.6666666666667,
+                    "veryPoor": 5.5555555555556
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Las Vegas, NV",
+                "coordinates": [
+                    -115.1611806,
+                    36.145204
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Las Vegas-Henderson, NV-AZ",
+                "csa": "CSA332",
+                "respondents": 135,
+                "selfEmployed": 46.2686567164179,
+                "professionalArtist": 55.9701492537313,
+                "location": {
+                    "veryGood": 25,
+                    "good": 34.2105263157895,
+                    "fair": 25,
+                    "poor": 11.8421052631579,
+                    "veryPoor": 3.9473684210526
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Lexington, KY",
+                "coordinates": [
+                    -84.4970393,
+                    38.0464066
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Lexington-Fayette--Richmond--Frankfort, KY",
+                "csa": "CSA336",
+                "respondents": 46,
+                "selfEmployed": 35.5555555555556,
+                "professionalArtist": 56.5217391304348,
+                "location": {
+                    "veryGood": 15.3846153846154,
+                    "good": 34.6153846153846,
+                    "fair": 34.6153846153846,
+                    "poor": 11.5384615384615,
+                    "veryPoor": 3.8461538461538
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Little Rock, AR",
+                "coordinates": [
+                    -92.2895948,
+                    34.7464809
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Little Rock-North Little Rock, AR",
+                "csa": "CSA340",
+                "respondents": 43,
+                "selfEmployed": 50,
+                "professionalArtist": 58.1395348837209,
+                "location": {
+                    "veryGood": 40,
+                    "good": 36,
+                    "fair": 20,
+                    "poor": 4,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Louisville, KY",
+                "coordinates": [
+                    -85.759407,
+                    38.2542376
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Louisville/Jefferson County--Elizabethtown--Madison, KY-IN",
+                "csa": "CSA350",
+                "respondents": 138,
+                "selfEmployed": 38.6861313868613,
+                "professionalArtist": 49.2753623188406,
+                "location": {
+                    "veryGood": 22.0588235294118,
+                    "good": 45.5882352941176,
+                    "fair": 25,
+                    "poor": 5.8823529411765,
+                    "veryPoor": 1.4705882352941
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Madison, WI",
+                "coordinates": [
+                    -89.3837613,
+                    43.074761
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Madison-Janesville-Beloit, WI",
+                "csa": "CSA357",
+                "respondents": 164,
+                "selfEmployed": 42.9447852760736,
+                "professionalArtist": 48.4662576687117,
+                "location": {
+                    "veryGood": 35,
+                    "good": 30,
+                    "fair": 25,
+                    "poor": 10,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Memphis, TN",
+                "coordinates": [
+                    -90.0516285,
+                    35.1490215
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Memphis-Forrest City, TN-MS-AR",
+                "csa": "CSA368",
+                "respondents": 123,
+                "selfEmployed": 43.9024390243902,
+                "professionalArtist": 65.040650406504,
+                "location": {
+                    "veryGood": 20.253164556962,
+                    "good": 34.1772151898734,
+                    "fair": 34.1772151898734,
+                    "poor": 6.3291139240506,
+                    "veryPoor": 5.0632911392405
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Miami, FL",
+                "coordinates": [
+                    -80.1936589,
+                    25.7742658
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Miami-Fort Lauderdale-Port St. Lucie, FL",
+                "csa": "CSA370",
+                "respondents": 520,
+                "selfEmployed": 44.5736434108527,
+                "professionalArtist": 52.6923076923077,
+                "location": {
+                    "veryGood": 28.5714285714286,
+                    "good": 35.1648351648352,
+                    "fair": 26.007326007326,
+                    "poor": 8.0586080586081,
+                    "veryPoor": 2.1978021978022
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Milwaukee, WI",
+                "coordinates": [
+                    -87.922497,
+                    43.0349931
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Milwaukee-Racine-Waukesha, WI",
+                "csa": "CSA376",
+                "respondents": 420,
+                "selfEmployed": 42.1428571428572,
+                "professionalArtist": 55.952380952381,
+                "location": {
+                    "veryGood": 20.0854700854701,
+                    "good": 39.7435897435897,
+                    "fair": 28.2051282051282,
+                    "poor": 9.4017094017094,
+                    "veryPoor": 2.5641025641026
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Minneapolis, MN",
+                "coordinates": [
+                    -93.2654692,
+                    44.9772995
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Minneapolis-St. Paul, MN-WI",
+                "csa": "CSA378",
+                "respondents": 800,
+                "selfEmployed": 44.7236180904523,
+                "professionalArtist": 57.8222778473091,
+                "location": {
+                    "veryGood": 51.7316017316017,
+                    "good": 30.952380952381,
+                    "fair": 12.7705627705628,
+                    "poor": 3.4632034632035,
+                    "veryPoor": 1.0822510822511
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Monroe, LA",
+                "coordinates": [
+                    -90.1792484,
+                    38.2722313
+                ],
+                "accuracy": "administrative"
+            },
+            "properties": {
+                "name": "Monroe-Ruston-Bastrop, LA",
+                "csa": "CSA384",
+                "respondents": 40,
+                "selfEmployed": 20.5128205128205,
+                "professionalArtist": 42.5,
+                "location": {
+                    "veryGood": 17.6470588235294,
+                    "good": 23.5294117647059,
+                    "fair": 35.2941176470588,
+                    "poor": 17.6470588235294,
+                    "veryPoor": 5.8823529411765
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Morgantown, WV",
+                "coordinates": [
+                    -79.9558968,
+                    39.629526
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Morgantown-Fairmont, WV",
+                "csa": "CSA390",
+                "respondents": 57,
+                "selfEmployed": 38.5964912280702,
+                "professionalArtist": 50.8771929824561,
+                "location": {
+                    "veryGood": 27.5862068965517,
+                    "good": 31.0344827586207,
+                    "fair": 34.4827586206897,
+                    "poor": 6.8965517241379,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Nashville, TN",
+                "coordinates": [
+                    -86.7743419,
+                    36.1622257
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Nashville-Davidson--Murfreesboro, TN",
+                "csa": "CSA400",
+                "respondents": 171,
+                "selfEmployed": 40,
+                "professionalArtist": 55.2941176470588,
+                "location": {
+                    "veryGood": 52.6315789473684,
+                    "good": 26.3157894736842,
+                    "fair": 15.7894736842105,
+                    "poor": 4.2105263157895,
+                    "veryPoor": 1.0526315789474
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "New Orleans, LA",
+                "coordinates": [
+                    -90.0701156,
+                    29.9499323
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "New Orleans-Metairie-Hammond, LA-MS",
+                "csa": "CSA406",
+                "respondents": 228,
+                "selfEmployed": 42.1052631578947,
+                "professionalArtist": 43.421052631579,
+                "location": {
+                    "veryGood": 47.4747474747475,
+                    "good": 32.3232323232323,
+                    "fair": 12.1212121212121,
+                    "poor": 6.0606060606061,
+                    "veryPoor": 2.020202020202
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "New York, NY",
+                "coordinates": [
+                    -73.9865812,
+                    40.7305991
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "New York-Newark, NY-NJ-CT-PA",
+                "csa": "CSA408",
+                "respondents": 6710,
+                "selfEmployed": 52.3944926668662,
+                "professionalArtist": 60.044776119403,
+                "location": {
+                    "veryGood": 64.1843088418431,
+                    "good": 22.0672478206725,
+                    "fair": 10.3113325031133,
+                    "poor": 2.4408468244085,
+                    "veryPoor": 0.9962640099626
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "North Port, FL",
+                "coordinates": [
+                    -82.2359254,
+                    27.044224
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "North Port-Sarasota, FL",
+                "csa": "CSA412",
+                "respondents": 148,
+                "selfEmployed": 54.7945205479452,
+                "professionalArtist": 53.3783783783784,
+                "location": {
+                    "veryGood": 35.4430379746835,
+                    "good": 29.1139240506329,
+                    "fair": 25.3164556962025,
+                    "poor": 8.8607594936709,
+                    "veryPoor": 1.2658227848101
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Oklahoma City, OK",
+                "coordinates": [
+                    -97.5198806,
+                    35.4707419
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Oklahoma City-Shawnee, OK",
+                "csa": "CSA416",
+                "respondents": 58,
+                "selfEmployed": 43.1034482758621,
+                "professionalArtist": 63.7931034482759,
+                "location": {
+                    "veryGood": 35.1351351351351,
+                    "good": 32.4324324324324,
+                    "fair": 24.3243243243243,
+                    "poor": 8.1081081081081,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Omaha, NE",
+                "coordinates": [
+                    -95.9378732,
+                    41.2587317
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Omaha-Council Bluffs-Fremont, NE-IA",
+                "csa": "CSA420",
+                "respondents": 54,
+                "selfEmployed": 44.4444444444444,
+                "professionalArtist": 62.962962962963,
+                "location": {
+                    "veryGood": 17.6470588235294,
+                    "good": 47.0588235294118,
+                    "fair": 29.4117647058824,
+                    "poor": 5.8823529411765,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Orlando, FL",
+                "coordinates": [
+                    -81.3790462,
+                    28.5421175
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Orlando-Deltona-Daytona Beach, FL",
+                "csa": "CSA422",
+                "respondents": 239,
+                "selfEmployed": 45.5696202531646,
+                "professionalArtist": 54.0084388185654,
+                "location": {
+                    "veryGood": 19.2307692307692,
+                    "good": 32.3076923076923,
+                    "fair": 36.1538461538462,
+                    "poor": 9.2307692307692,
+                    "veryPoor": 3.0769230769231
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Peoria, IL",
+                "coordinates": [
+                    -89.5891008,
+                    40.6938609
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Peoria-Canton, IL",
+                "csa": "CSA426",
+                "respondents": 45,
+                "selfEmployed": 20,
+                "professionalArtist": 40,
+                "location": {
+                    "veryGood": 27.7777777777778,
+                    "good": 33.3333333333333,
+                    "fair": 22.2222222222222,
+                    "poor": 16.6666666666667,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Philadelphia, PA",
+                "coordinates": [
+                    -75.163789,
+                    39.952335
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Philadelphia-Reading-Camden, PA-NJ-DE-MD",
+                "csa": "CSA428",
+                "respondents": 1313,
+                "selfEmployed": 46.5134099616858,
+                "professionalArtist": 54.8436308161709,
+                "location": {
+                    "veryGood": 41.5855354659249,
+                    "good": 35.4659248956884,
+                    "fair": 17.3852573018081,
+                    "poor": 4.7287899860918,
+                    "veryPoor": 0.8344923504868
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Pittsburgh, PA",
+                "coordinates": [
+                    -79.9900861,
+                    40.4416941
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Pittsburgh-New Castle-Weirton, PA-OH-WV",
+                "csa": "CSA430",
+                "respondents": 373,
+                "selfEmployed": 36.1185983827493,
+                "professionalArtist": 48.5254691689008,
+                "location": {
+                    "veryGood": 25.1396648044693,
+                    "good": 36.3128491620112,
+                    "fair": 29.0502793296089,
+                    "poor": 7.2625698324022,
+                    "veryPoor": 2.2346368715084
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Portland, ME",
+                "coordinates": [
+                    -70.2548596,
+                    43.6610277
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Portland-Lewiston-South Portland, ME",
+                "csa": "CSA438",
+                "respondents": 196,
+                "selfEmployed": 56.6326530612245,
+                "professionalArtist": 60.7142857142857,
+                "location": {
+                    "veryGood": 37.8151260504202,
+                    "good": 33.6134453781513,
+                    "fair": 20.1680672268908,
+                    "poor": 5.8823529411765,
+                    "veryPoor": 2.5210084033613
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Portland, OR",
+                "coordinates": [
+                    -122.6741949,
+                    45.5202471
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Portland-Vancouver-Salem, OR-WA",
+                "csa": "CSA440",
+                "respondents": 535,
+                "selfEmployed": 48.0300187617261,
+                "professionalArtist": 56.8224299065421,
+                "location": {
+                    "veryGood": 43.0921052631579,
+                    "good": 37.5,
+                    "fair": 15.7894736842105,
+                    "poor": 2.6315789473684,
+                    "veryPoor": 0.9868421052632
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Raleigh, NC",
+                "coordinates": [
+                    -78.6390779,
+                    35.7804015
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Raleigh-Durham-Chapel Hill, NC",
+                "csa": "CSA450",
+                "respondents": 234,
+                "selfEmployed": 40.343347639485,
+                "professionalArtist": 48.7179487179487,
+                "location": {
+                    "veryGood": 40.3508771929825,
+                    "good": 32.4561403508772,
+                    "fair": 23.6842105263158,
+                    "poor": 2.6315789473684,
+                    "veryPoor": 0.8771929824561
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Rochester, NY",
+                "coordinates": [
+                    -77.6152141,
+                    43.1572851
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Rochester-Batavia-Seneca Falls, NY",
+                "csa": "CSA464",
+                "respondents": 154,
+                "selfEmployed": 39.2156862745098,
+                "professionalArtist": 55.8441558441558,
+                "location": {
+                    "veryGood": 27.906976744186,
+                    "good": 34.8837209302326,
+                    "fair": 29.0697674418605,
+                    "poor": 6.9767441860465,
+                    "veryPoor": 1.1627906976744
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Rockford, IL",
+                "coordinates": [
+                    -89.093966,
+                    42.2713945
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Rockford-Freeport-Rochelle, IL",
+                "csa": "CSA466",
+                "respondents": 45,
+                "selfEmployed": 60,
+                "professionalArtist": 62.2222222222222,
+                "location": {
+                    "veryGood": 10.7142857142857,
+                    "good": 21.4285714285714,
+                    "fair": 39.2857142857143,
+                    "poor": 17.8571428571429,
+                    "veryPoor": 10.7142857142857
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "St. Louis, MO",
+                "coordinates": [
+                    -90.1978889,
+                    38.6272733
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "St. Louis-St. Charles-Farmington, MO-IL",
+                "csa": "CSA476",
+                "respondents": 294,
+                "selfEmployed": 43.0034129692833,
+                "professionalArtist": 57.3378839590444,
+                "location": {
+                    "veryGood": 21.4285714285714,
+                    "good": 44.047619047619,
+                    "fair": 27.3809523809524,
+                    "poor": 4.7619047619048,
+                    "veryPoor": 2.3809523809524
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Salt Lake City, UT",
+                "coordinates": [
+                    -111.89109,
+                    40.7606467
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Salt Lake City-Provo-Orem, UT",
+                "csa": "CSA482",
+                "respondents": 204,
+                "selfEmployed": 52.4752475247525,
+                "professionalArtist": 60.2941176470588,
+                "location": {
+                    "veryGood": 15.4471544715447,
+                    "good": 48.780487804878,
+                    "fair": 23.5772357723577,
+                    "poor": 10.5691056910569,
+                    "veryPoor": 1.6260162601626
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Savannah, GA",
+                "coordinates": [
+                    -81.0998342,
+                    32.0835407
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Savannah-Hinesville-Statesboro, GA",
+                "csa": "CSA496",
+                "respondents": 87,
+                "selfEmployed": 32.183908045977,
+                "professionalArtist": 48.2758620689655,
+                "location": {
+                    "veryGood": 19.5121951219512,
+                    "good": 26.8292682926829,
+                    "fair": 41.4634146341463,
+                    "poor": 12.1951219512195,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Seattle, WA",
+                "coordinates": [
+                    -122.3300624,
+                    47.6038321
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Seattle-Tacoma, WA",
+                "csa": "CSA500",
+                "respondents": 787,
+                "selfEmployed": 39.3630573248408,
+                "professionalArtist": 46.3786531130877,
+                "location": {
+                    "veryGood": 45.4545454545454,
+                    "good": 31.404958677686,
+                    "fair": 19.5592286501377,
+                    "poor": 2.7548209366391,
+                    "veryPoor": 0.8264462809917
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "South Bend, IN",
+                "coordinates": [
+                    -86.2500066,
+                    41.6833813
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "South Bend-Elkhart-Mishawaka, IN-MI",
+                "csa": "CSA515",
+                "respondents": 76,
+                "selfEmployed": 47.945205479452,
+                "professionalArtist": 53.3333333333333,
+                "location": {
+                    "veryGood": 24.390243902439,
+                    "good": 34.1463414634146,
+                    "fair": 29.2682926829268,
+                    "poor": 9.7560975609756,
+                    "veryPoor": 2.4390243902439
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Spokane, WA",
+                "coordinates": [
+                    -117.4247134,
+                    47.6588603
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Spokane-Spokane Valley-Coeur d'Alene, WA-ID",
+                "csa": "CSA518",
+                "respondents": 40,
+                "selfEmployed": 39.4736842105263,
+                "professionalArtist": 35,
+                "location": {
+                    "veryGood": 21.4285714285714,
+                    "good": 28.5714285714286,
+                    "fair": 42.8571428571429,
+                    "poor": 7.1428571428571,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Springfield, MO",
+                "coordinates": [
+                    -93.2982521,
+                    37.2153307
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Springfield-Branson, MO",
+                "csa": "CSA520",
+                "respondents": 55,
+                "selfEmployed": 41.8181818181818,
+                "professionalArtist": 58.1818181818182,
+                "location": {
+                    "veryGood": 9.375,
+                    "good": 40.625,
+                    "fair": 40.625,
+                    "poor": 0,
+                    "veryPoor": 9.375
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Springfield, MA",
+                "coordinates": [
+                    -72.5470110272851,
+                    42.11297795
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Springfield-Greenfield Town, MA",
+                "csa": "CSA521",
+                "respondents": 205,
+                "selfEmployed": 46.078431372549,
+                "professionalArtist": 54.4117647058824,
+                "location": {
+                    "veryGood": 34.8214285714286,
+                    "good": 33.0357142857143,
+                    "fair": 25.8928571428571,
+                    "poor": 6.25,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "State College, PA",
+                "coordinates": [
+                    -77.8606975,
+                    40.794026
+                ],
+                "accuracy": "administrative"
+            },
+            "properties": {
+                "name": "State College-DuBois, PA",
+                "csa": "CSA524",
+                "respondents": 39,
+                "selfEmployed": 38.4615384615385,
+                "professionalArtist": 56.4102564102564,
+                "location": {
+                    "veryGood": 22.7272727272727,
+                    "good": 27.2727272727273,
+                    "fair": 31.8181818181818,
+                    "poor": 9.0909090909091,
+                    "veryPoor": 9.0909090909091
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Syracuse, NY",
+                "coordinates": [
+                    -76.1474244,
+                    43.0481221
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Syracuse-Auburn, NY",
+                "csa": "CSA532",
+                "respondents": 194,
+                "selfEmployed": 38.659793814433,
+                "professionalArtist": 47.9381443298969,
+                "location": {
+                    "veryGood": 8.6021505376344,
+                    "good": 23.6559139784946,
+                    "fair": 46.2365591397849,
+                    "poor": 16.1290322580645,
+                    "veryPoor": 5.3763440860215
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Tallahassee, FL",
+                "coordinates": [
+                    -84.2809332,
+                    30.4380832
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Tallahassee-Bainbridge, FL-GA",
+                "csa": "CSA533",
+                "respondents": 50,
+                "selfEmployed": 40.8163265306122,
+                "professionalArtist": 36,
+                "location": {
+                    "veryGood": 16.6666666666667,
+                    "good": 38.8888888888889,
+                    "fair": 27.7777777777778,
+                    "poor": 16.6666666666667,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Toledo, OH",
+                "coordinates": [
+                    -83.5127283,
+                    41.6786754
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Toledo-Port Clinton, OH",
+                "csa": "CSA534",
+                "respondents": 68,
+                "selfEmployed": 39.7058823529412,
+                "professionalArtist": 57.3529411764706,
+                "location": {
+                    "veryGood": 15.3846153846154,
+                    "good": 28.2051282051282,
+                    "fair": 38.4615384615385,
+                    "poor": 12.8205128205128,
+                    "veryPoor": 5.1282051282051
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Tucson, AZ",
+                "coordinates": [
+                    -110.926479,
+                    32.2217429
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Tucson-Nogales, AZ",
+                "csa": "CSA536",
+                "respondents": 138,
+                "selfEmployed": 42.6470588235294,
+                "professionalArtist": 43.7956204379562,
+                "location": {
+                    "veryGood": 22.9508196721311,
+                    "good": 31.1475409836066,
+                    "fair": 27.8688524590164,
+                    "poor": 11.4754098360656,
+                    "veryPoor": 6.5573770491803
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Tulsa, OK",
+                "coordinates": [
+                    -95.9904093,
+                    36.1524357
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Tulsa-Muskogee-Bartlesville, OK",
+                "csa": "CSA538",
+                "respondents": 47,
+                "selfEmployed": 46.8085106382979,
+                "professionalArtist": 55.3191489361702,
+                "location": {
+                    "veryGood": 15.3846153846154,
+                    "good": 38.4615384615385,
+                    "fair": 34.6153846153846,
+                    "poor": 11.5384615384615,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Virginia Beach, VA",
+                "coordinates": [
+                    -75.9774183,
+                    36.8529841
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Virginia Beach-Norfolk, VA-NC",
+                "csa": "CSA545",
+                "respondents": 204,
+                "selfEmployed": 36.4532019704434,
+                "professionalArtist": 47.0588235294118,
+                "location": {
+                    "veryGood": 29.4736842105263,
+                    "good": 25.2631578947368,
+                    "fair": 36.8421052631579,
+                    "poor": 7.3684210526316,
+                    "veryPoor": 1.0526315789474
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Washington, DC",
+                "coordinates": [
+                    -77.0363716,
+                    38.8951148
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Washington-Baltimore-Arlington, DC-MD-VA-WV-PA",
+                "csa": "CSA548",
+                "respondents": 2439,
+                "selfEmployed": 40.710156895128,
+                "professionalArtist": 51.4802631578947,
+                "location": {
+                    "veryGood": 40.6523468575975,
+                    "good": 38.5043754972156,
+                    "fair": 16.0700079554495,
+                    "poor": 3.8981702466189,
+                    "veryPoor": 0.8750994431185
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Wichita, KS",
+                "coordinates": [
+                    -97.3375448,
+                    37.6922361
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Wichita-Arkansas City-Winfield, KS",
+                "csa": "CSA556",
+                "respondents": 50,
+                "selfEmployed": 20,
+                "professionalArtist": 32.6530612244898,
+                "location": {
+                    "veryGood": 17.6470588235294,
+                    "good": 41.1764705882353,
+                    "fair": 35.2941176470588,
+                    "poor": 5.8823529411765,
+                    "veryPoor": 0
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": "Youngstown, OH",
+                "coordinates": [
+                    -80.6495194,
+                    41.0997803
+                ],
+                "accuracy": "city"
+            },
+            "properties": {
+                "name": "Youngstown-Warren, OH-PA",
+                "csa": "CSA566",
+                "respondents": 43,
+                "selfEmployed": 37.2093023255814,
+                "professionalArtist": 55.8139534883721,
+                "location": {
+                    "veryGood": 4.1666666666667,
+                    "good": 25,
+                    "fair": 29.1666666666667,
+                    "poor": 29.1666666666667,
+                    "veryPoor": 12.5
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "name": null,
+                "coordinates": [
+                    null,
+                    null
+                ],
+                "accuracy": null
+            },
+            "properties": {
+                "name": null,
+                "csa": null,
+                "respondents": null,
+                "selfEmployed": null,
+                "professionalArtist": null,
+                "location": {
+                    "veryGood": null,
+                    "good": null,
+                    "fair": null,
+                    "poor": null,
+                    "veryPoor": null
+                }
+            }
+        }
+    ]
+}

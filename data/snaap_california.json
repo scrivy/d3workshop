@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "locations": [
+        {
+            "type": "Feature",
+            "name": "University of California Berkeley",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -122.238741940367,
+                    37.8762039
+                ]
+            },
+            "properties": {
+                "current": 32,
+                "past": 22,
+                "never": 46,
+                "alumniRating": 95,
+                "alumniResidency": 36,
+                "url": "http://www.berkeley.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California Davis",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -121.755743312854,
+                    38.53610515
+                ]
+            },
+            "properties": {
+                "current": 48,
+                "past": 19,
+                "never": 34,
+                "alumniRating": 92,
+                "alumniResidency": 21,
+                "url": "http://www.ucdavis.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California Irvine",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -117.840158678262,
+                    33.6431663
+                ]
+            },
+            "properties": {
+                "current": 44,
+                "past": 32,
+                "never": 24,
+                "alumniRating": 90,
+                "alumniResidency": 25,
+                "url": "http://uci.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California Los Angeles",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -118.446702633043,
+                    34.07094015
+                ]
+            },
+            "properties": {
+                "current": 49,
+                "past": 27,
+                "never": 24,
+                "alumniRating": 92,
+                "alumniResidency": 54,
+                "url": "http://www.ucla.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California Merced",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -120.422417818842,
+                    37.3640068031754
+                ]
+            },
+            "properties": {
+                "current": null,
+                "past": null,
+                "never": null,
+                "alumniRating": 10,
+                "alumniResidency": null,
+                "url": "http://www.ucmerced.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California Riverside",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -117.324628275801,
+                    33.9740989741072
+                ]
+            },
+            "properties": {
+                "current": 41,
+                "past": 15,
+                "never": 43,
+                "alumniRating": 94,
+                "alumniResidency": 24,
+                "url": "http://www.ucr.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California San Diego",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -117.231024196536,
+                    32.88094385
+                ]
+            },
+            "properties": {
+                "current": 36,
+                "past": 21,
+                "never": 44,
+                "alumniRating": 90,
+                "alumniResidency": 43,
+                "url": "http://ucsd.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California Santa Barbara",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "locality",
+                "coordinates": [
+                    -119.8485189,
+                    34.4130161
+                ]
+            },
+            "properties": {
+                "current": 43,
+                "past": 21,
+                "never": 37,
+                "alumniRating": 95,
+                "alumniResidency": 25,
+                "url": "http://www.ucsb.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California Santa Cruz",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -122.062799954392,
+                    37.00048685
+                ]
+            },
+            "properties": {
+                "current": 46,
+                "past": 23,
+                "never": 31,
+                "alumniRating": 94,
+                "alumniResidency": 33,
+                "url": "http://www.ucsc.edu/"
+            }
+        },
+        {
+            "type": "Feature",
+            "name": "University of California San Francisco",
+            "geometry": {
+                "type": "Point",
+                "accuracy": "university",
+                "coordinates": [
+                    -122.458765289349,
+                    37.7628422297259
+                ]
+            },
+            "properties": {
+                "current": null,
+                "past": null,
+                "never": null,
+                "alumniRating": 10,
+                "alumniResidency": null,
+                "url": "https://www.ucsf.edu/"
+            }
+        }
+    ]
+}

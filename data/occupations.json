@@ -1,0 +1,325 @@
+{
+    "occupation": "all",
+    "children": [
+        {
+            "name": "within",
+            "value": 60,
+            "children": [
+                {   "id": "within",
+                    "occupation": "WITHIN THE ARTS",
+                    "value": 28,
+                    "medianIncome": 0
+                },
+                {   "id": "architect",
+                    "occupation": "Architect",
+                    "value": 2,
+                    "medianIncome": 65000
+                },
+                {
+                    "id": "artsAdministrator",
+                    "occupation": "Arts Administrator/Manager",
+                    "value": 7,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "artsEducation",
+                    "occupation": "Arts Education",
+                    "value": 22,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "artsEducator",
+                    "occupation": "K-12 Arts Educator",
+                    "value": 6,
+                    "medianIncome": 35000
+                },
+                {
+                    "id": "higherEd",
+                    "occupation": "Higher Education Arts Educator",
+                    "value": 10,
+                    "medianIncome": 55000
+                },
+                {
+                    "id": "privateTeacher",
+                    "occupation": "Private Teacher of the Arts",
+                    "value": 7,
+                    "medianIncome": 35000
+                },
+                {
+                    "id": "otherArtsEducator",
+                    "occupation": "Other Arts Educator",
+                    "value": 3,
+                    "medianIncome": 35000
+                },
+                {
+                    "id": "craftArtist",
+                    "occupation": "Craft Artist",
+                    "value": 3,
+                    "medianIncome": 35000
+                },
+                {
+                    "id": "curator",
+                    "occupation": "Curator/Dealer/Gallery Owner",
+                    "value": 3,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "dancer",
+                    "occupation": "Dancer/Choreographer",
+                    "value": 3,
+                    "medianIncome": 25000
+                },
+                {   "id":"design",
+                    "occupation": "Design",
+                    "value": 15,
+                    "medianIncome": 55000,
+                    "statement": "I'm a working designer/art director. For 6 years I've had my own business, and built a solid client base. Every day I use my arts training, whether it's researching design or art history, sketching out ideas for a new project, laying out a design on the computer, critiquing the work, or directing a photo shoot.",
+                    "alum": "UCD 1999"
+                },
+                {
+                    "id": "graphicDesigner",
+                    "occupation": "Graphic Designer/Illustrator",
+                    "value": 8,
+                    "medianIncome": 45000,
+                    "statement": "I have used my fine arts skills in all my jobs, in some way or another. I've done retail sale signs, illustrated book covers for several college textbooks, published several scientific illustrations in a college text book, painted logos on semi tractors and boats, among other things. It's pretty amazing what came my way in my non-art based career.",
+                    "alum": "UCD 1983"
+                },
+                {
+                    "id": "interiorDesigner",
+                    "occupation": "Interior designer",
+                    "value": 2,
+                    "medianIncome": 50000
+                },
+                {
+                    "id": "multiMediaArtist",
+                    "occupation": "Multi-Media Artist/Animator",
+                    "value": 2,
+                    "medianIncome": 55000
+                },
+                {
+                    "id": "webDesigner",
+                    "occupation": "Web Designer",
+                    "value": 5,
+                    "medianIncome": 55000
+                },
+                {
+                    "id": "otherDesigner",
+                    "occupation": "Other Designer",
+                    "value": 4,
+                    "medianIncome": 55000
+                },
+                {
+                    "id": "videoArtist",
+                    "occupation": "Film/TV/Video Artist",
+                    "value": 5,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "fineArtist",
+                    "occupation": "Fine Artist",
+                    "value": 9,
+                    "medianIncome": 35000,
+                    "statement": "I didn't have any illusions about how difficult it is to have a stable income if you're primarily an artist. I don't view higher education as primarily job training. I realize that there is pressure for universities to become job factories because of the economy, but I went to school to pursue art, which is what I love. UCLA does not give students the impression that going to school there will land you a great job, although if I had wanted a normal job, UCLA provided me with the ability and access to get that. Because I'm an artist, I've structured my life around having time to paint.",
+                    "alum": "UCLA 1998"
+                },
+                {
+                    "id": "musician",
+                    "occupation": "Musician",
+                    "value": 10,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "photographer",
+                    "occupation": "Photographer",
+                    "value": 4,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "theater",
+                    "occupation": "Theater",
+                    "value": 6,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "actor",
+                    "occupation": "Actor",
+                    "value": 3,
+                    "medianIncome": 35000
+                },
+                {
+                    "id": "stageDirector",
+                    "occupation": "Theater/Stage Director, Producer, Manager",
+                    "value": 3,
+                    "medianIncome": 55000
+                },
+                {
+                    "id": "stageTechnician",
+                    "occupation": "Engineer/Technician (Sound, Light)",
+                    "value": 1,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "writer",
+                    "occupation": "Writer/Author/Editor",
+                    "value": 11,
+                    "medianIncome": 45000,
+                    "statement": "I am very lucky to have essentially created my own entrepreneurial artistic world using the education I received at both UC Davis (now, as art gallery owner) and Art Center College of Design (book publishing company founder) [combined] with my love of the environment and outdoors.",
+                    "alum": "UCD 1978"
+                },
+                {
+                    "id": "otherArts",
+                    "occupation": "Other",
+                    "value": 8,
+                    "medianIncome": 45000
+                }
+            ]
+        },
+        {
+            "name": "outside",
+            "value": 51,
+            "children": [
+                {   "id": "outside",
+                    "occupation": "OUTSIDE THE ARTS",
+                    "value": 28,
+                    "medianIncome": 0
+                },
+                {
+                    "id": "maintenance",
+                    "occupation": "Building/Maintenance/Installation/Repair",
+                    "value": 1,
+                    "medianIncome": 45000,
+                    "statement": "I work as an electrician for high-end homes and estates. … My arts training has helped me in every aspect of my career from the use of space, to working with color within a room; whether the artwork and/or antiques within are to be highlighted or softened by the lighting. My occupation requires detailed research, precaution, and communication skills to arrive at an understanding of what the customer/designer wants. … All of the skills needed to make it through yet another week were challenged, tested and enhanced through my various studies at UCSB.",
+                    "alum": "UCSB Alum"
+                },
+                {
+                    "id": "communications",
+                    "occupation": "Communications",
+                    "value": 9,
+                    "medianIncome": 55000,
+                    "statement": "My art training is extremely relevant to all the work I've done. I use it in EVERYTHING.",
+                    "alum": "UCSB Alum"
+                },
+                {
+                    "id": "computers",
+                    "occupation": "Computer/Mathematical",
+                    "value": 5,
+                    "medianIncome": 75000
+                },
+                {
+                    "id": "construction",
+                    "occupation": "Construction/Extraction",
+                    "value": 1,
+                    "medianIncome": 55000
+                },
+                {
+                    "id": "education",
+                    "occupation": "Education/Training/Library",
+                    "value": 13,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "engineer",
+                    "occupation": "Engineering/Science",
+                    "value": 1,
+                    "medianIncome": 65000
+                },
+                {
+                    "id": "farming",
+                    "occupation": "Farming/Fishing/Forestry",
+                    "value": 0.5,
+                    "medianIncome": 15000
+                },
+                {
+                    "id": "financial",
+                    "occupation": "Financial/Business",
+                    "value": 3,
+                    "medianIncome": 65000
+                },
+                {
+                    "id": "foodPrep",
+                    "occupation": "Food Preparation",
+                    "value": 2,
+                    "medianIncome": 25000
+                },
+                {
+                    "id": "healthcare",
+                    "occupation": "Healthcare ",
+                    "value": 3,
+                    "medianIncome": 55000
+                },
+                {
+                    "id": "hr",
+                    "occupation": "Human Resources",
+                    "value": 0.9,
+                    "medianIncome": 50000
+                },
+                {
+                    "id": "legal",
+                    "occupation": "Legal",
+                    "value": 2,
+                    "medianIncome": 85000,
+                    "statement": "I was recruited and hired into my current position because of my proven ability to think creatively, solve problems, and approach new work with courage. These are all skills acquired through study in the arts.",
+                    "alum": "UCLA 1997"
+                },
+                {
+                    "id": "management",
+                    "occupation": "Management",
+                    "value": 6,
+                    "medianIncome": 80000,
+                    "statement": "I cannot emphasize enough the value of an education in the arts …. I truly believe that the focus that is placed on the arts as a professional endeavor in a social/cultural context allows students to explore the world from multiple perspectives, which is essential to success in any career path.",
+                    "alum": "UCLA 1997"
+                },
+                {
+                    "id": "manufacturing",
+                    "occupation": "Manufacturing",
+                    "value": 0.7,
+                    "medianIncome": 70000
+                },
+                {
+                    "id": "military",
+                    "occupation": "Military/Protective Services",
+                    "value": 0.4,
+                    "medianIncome": 75000
+                },
+                {
+                    "id": "officeAdmin",
+                    "occupation": "Office/Administrative Support",
+                    "value": 6,
+                    "medianIncome": 35000
+                },
+                {
+                    "id": "Sales",
+                    "occupation": "Sales",
+                    "value": 4,
+                    "medianIncome": 35000
+                },
+                {
+                    "id": "services",
+                    "occupation": "Services/Personal Care",
+                    "value": 1,
+                    "medianIncome": 20000
+                },
+                {
+                    "id": "socialServices",
+                    "occupation": "Social Services",
+                    "value": 2,
+                    "medianIncome": 45000
+                },
+                {
+                    "id": "transportation",
+                    "occupation": "Transportation/Material Moving",
+                    "value": 0.3,
+                    "medianIncome": 25000
+                },
+                {
+                    "id": "otherNonArts",
+                    "occupation": "Other Non-Arts",
+                    "value": 8,
+                    "medianIncome": 45000,
+                    "statement": "I was very satisfied with my education at UC Davis. I found a job immediately upon graduating, and have been engaged in the career I had hoped to have for the past five years.",
+                    "alum": "UCD 2004"
+                }
+            ]
+        }
+    ]
+}

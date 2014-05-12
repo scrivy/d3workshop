@@ -1,0 +1,155 @@
+{
+    "degree": "all",
+    "children": [
+        {
+            "name": "Undergraduate",
+            "children": [
+                {
+                    "degree": "Cert",
+                    "degreeLong": "Certificate",
+                    "value": 11,
+                    "pursuedDegrees":[
+                        { "name": "MA", "nameLong": "Master of Arts", "value": 17 },
+                        { "name": "Other",  "value": 17 },
+                        { "name": "MFA", "nameLong": "Master of Fine Arts", "value": 11 }
+                    ]
+                },
+                {
+                    "degree": "BA",
+                    "degreeLong": "Bachelor of Arts",
+                    "value": 84,
+                    "pursuedDegrees":[
+                        { "name": "MA", "nameLong": "Master of Arts", "value": 24 },
+                        { "name": "Other",  "value": 22 },
+                        { "name": "MFA", "nameLong": "Master of Fine Arts", "value": 13 }
+                    ]
+                },
+                {
+                    "degree": "B Arch",
+                    "degreeLong": "Bachelor of Architecture",
+                    "value": 1,
+                    "pursuedDegrees":[
+                        { "name": "M Arch", "nameLong": "Master of Architecture",  "value": 47 },
+                        { "name": "MA", "nameLong": "Master of Arts", "value": 16 },
+                        { "name": "MFA", "nameLong": "Master of Fine Arts", "value": 10 }
+                    ]
+                },
+                {
+                    "degree": "BFA",
+                    "degreeLong": "Bachelor of Fine Arts",
+                    "value": 10,
+                    "pursuedDegrees":[
+                        { "name": "MFA", "nameLong": "Master of Fine Arts", "value": 34 },
+                        { "name": "Other",  "value": 16 },
+                        { "name": "MA", "nameLong": "Master of Arts", "value": 12 }
+                    ]
+                },
+                {
+                    "degree": "BM",
+                    "degreeLong": "Bachelor of Music",
+                    "value": 3,
+                    "pursuedDegrees":[
+                        { "name": "MA", "nameLong": "Master of Arts", "value": 34 },
+                        { "name": "PhD", "nameLong": "Doctor of Philosophy", "value": 33 },
+                        { "name": "MM or M Mus", "nameLong": "Master of Music", "value": 29 }
+                    ]
+                },
+                {
+                    "degree": "BS",
+                    "degreeLong": "Bachelor of Science",
+                    "value": 5,
+                    "pursuedDegrees":[
+                        { "name": "Other", "value": 27 },
+                        { "name": "MA", "nameLong": "Master of Arts", "value": 19 },
+                        { "name": "MFA or M Mus", "nameLong": "Master of Fine Arts", "value": 16 }
+                    ]
+                },
+                {
+                    "degree": "Other",
+                    "degreeLong": "Other Undergraduate Degree",
+                    "value": 15,
+                    "pursuedDegrees":[
+                        { "name": "MA", "nameLong": "Master of Arts", "value": 20 },
+                        { "name": "Other", "value": 20 },
+                        { "name": "MFA", "nameLong": "Master of Fine Arts", "value": 13 }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Graduate",
+            "children": [
+                {
+                    "degree": "MA",
+                    "degreeLong": "Master of Arts",
+                    "value": 23,
+                    "pursuedDegrees":[
+                        { "name": "BA", "nameLong": "Bachelor of Arts", "value": 85 },
+                        { "name": "Other",  "value": 13 },
+                        { "name": "CERT", "nameLong": "Certificate", "value": 8 }
+                    ]
+                },
+                {
+                    "degree": "M Arch",
+                    "degreeLong": "Master of Architecture",
+                    "value": 3,
+                    "pursuedDegrees":[
+                        { "name": "BA", "nameLong": "Bachelor of Arts", "value": 53 },
+                        { "name": "B Arch", "nameLong": "Bachelor of Architecture", "value": 17 },
+                        { "name": "Other", "value": 16 }
+                    ]
+                },
+                {
+                    "degree": "MFA",
+                    "degreeLong": "Master of Fine Arts",
+                    "value": 15,
+                    "pursuedDegrees":[
+                        { "name": "BA", "nameLong": "Bachelor of Arts", "value": 68 },
+                        { "name": "BFA", "nameLong": "Bachelor of Fine Arts",  "value": 23 },
+                        { "name": "Other", "value": 13 }
+                    ]
+                },
+                {
+                    "degree": "MM",
+                    "degreeLong": "Master of Music",
+                    "value": 3,
+                    "pursuedDegrees":[
+                        { "name": "BA", "nameLong": "Bachelor of Arts", "value": 67 },
+                        { "name": "BM or B Mus", "nameLong": "Bachelor of Music", "value": 28 },
+                        { "name": "CERT", "nameLong": "Certificate", "value": 7 }
+                    ]
+                },
+                {
+                    "degree": "DMA",
+                    "degreeLong": "Doctor of Musical Arts",
+                    "value": 1,
+                    "pursuedDegrees":[
+                        { "name": "BA", "nameLong": "Bachelor of Arts", "value": 59 },
+                        { "name": "BM or B Mus", "nameLong": "Bachelor of Music", "value": 29 },
+                        { "name": "Other", "value": 10 }
+                    ]
+                },
+                {
+                    "degree": "PhD",
+                    "degreeLong": "Doctor of Philosophy",
+                    "value": 10,
+                    "pursuedDegrees":[
+                        { "name": "BA", "nameLong": "Bachelor of Arts", "value": 81 },
+                        { "name": "BM or B Mus", "nameLong": "Bachelor of Music", "value": 10 },
+                        { "name": "Other", "value": 7 }
+                    ]
+                },
+                {
+                    "degree": "Other",
+                    "degreeLong": "Other Graduate Degree",
+                    "value": 21,
+                    "pursuedDegrees":[
+                        { "name": "BA", "nameLong": "Bachelor of Arts", "value": 86 },
+                        { "name": "Other",  "value": 14 },
+                        { "name": "CERT", "nameLong": "Certificate", "value": 8 }
+                    ]
+                }
+            ]
+        }
+    ]
+}
