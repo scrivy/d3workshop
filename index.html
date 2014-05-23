@@ -132,7 +132,7 @@ svg
         <section>
           <section>
             <h2>basic svg elements</h2>
-            <h3>let's go over</h3>
+            <br />
             <ul>
               <li>lines</li>
               <li>rectangles</li>
@@ -187,7 +187,7 @@ svg
         <section>
           <section>
             <h2>selecting existing elements</h2>
-            <h3>let's go over</h3>
+            <br />
             <ul>
               <li>d3.select()</li>
               <li>d3.selectAll()</li>
@@ -225,22 +225,79 @@ svg
             </svg>
           </section>
 
-
-
-
-
-
-
-
-
-
-
+          <section>
+            <h2>exercise #3</h2>
+            <p>
+              <a href='http://jsfiddle.net/scrivy/8erNj/' target='_blank'>
+                make a small bar chart
+                <img src='images/externalurl.png' style='border: 0; position: relative; top: 14px;' />
+              </a>
+            </p><br />
+            <svg height='200' width='100'>
+              <rect y="0" height="150" width="20" style="fill: red;" x="0"></rect>
+              <rect y="50" height="100" width="20" style="fill: green;" x="30"></rect>
+              <rect y="100" height="50" width="20" style="fill: blue;" x="60"></rect>
+            </svg>
+          </section>
         </section>
 
+        <section>
+          <section>
+            <h2>adding data</h2>
+            <br />
+            <ul>
+              <li>.data()</li>
+              <li>.enter()</li>
+              <li>.exit()</li>
+            </ul>
+          </section>
 
+          <section>
+            <h2>exercise #1</h2>
+            <p>
+              <a href='http://jsfiddle.net/scrivy/L84QE/' target='_blank'>
+                make a bar chart using d for height
+                <img src='images/externalurl.png' style='border: 0; position: relative; top: 14px;' />
+              </a>
+            </p><br />
+            <svg height='200' width='100'>
+              <rect y="75" height="75" width="20" style="fill: red;" x="0"></rect>
+              <rect y="0" height="150" width="20" style="fill: green;" x="30"></rect>
+              <rect y="25" height="125" width="20" style="fill: blue;" x="60"></rect>
+            </svg>
+          </section>
 
+          <section>
+            <h2>exercise #2</h2>
+            <p>
+              <a href='http://jsfiddle.net/scrivy/ZzXk6/' target='_blank'>
+                use .enter() to add additional rects
+                <img src='images/externalurl.png' style='border: 0; position: relative; top: 14px;' />
+              </a>
+            </p><br />
+            <svg height='200' width='140'>
+              <rect style="fill: red;" x="0" y="75" width="20" height="75"></rect>
+              <rect style="fill: green;" x="30" y="0" width="20" height="150"></rect>
+              <rect style="fill: blue;" x="60" y="25" width="20" height="125"></rect>
+              <rect x="90" y="100" width="20" height="50" style="fill: rgb(255, 165, 0);"></rect>
+              <rect x="120" y="40" width="20" height="110" style="fill: rgb(255, 165, 0);"></rect>
+            </svg>
+          </section>
 
+          <section>
+            <h2>exercise #3</h2>
+            <p>
+              <a href='http://jsfiddle.net/scrivy/8s3HU/' target='_blank'>
+              use .exit() to remove rects
+              <img src='images/externalurl.png' style='border: 0; position: relative; top: 14px;' />
+            </p><br />
+            <svg height='200' width='140'>
+              <rect style="fill: red;" x="0" y="75" width="20" height="75"></rect>
+              <rect style="fill: green;" x="30" y="0" width="20" height="150"></rect>
+            </svg>
+          </section>
 
+        </section>
 
 
 
